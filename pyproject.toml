@@ -3,6 +3,7 @@ name = "autopyrma"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
+license = { text = "MIT" }
 authors = [
     { name = "Carlos J. Gil Bellosta", email = "cgb@circiter.es" }
 ]
